@@ -58,21 +58,6 @@ Example:
 
 ---
 
-## Project Structure
-
-```text
-excel-email-order-automation/
-│
-├── order_notifier.py
-├── orders_sample.xlsx
-├── README.md
-├── .gitignore
-├── excel-orders.png
-├── terminal-success.png
-└── email-result.png
-```
-
----
 
 ## Requirements
 
